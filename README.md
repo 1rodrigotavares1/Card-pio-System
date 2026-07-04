@@ -9,5 +9,19 @@ Criar um sistema de cardápio online para facilitar o atendimento a clientes em 
 
 ### Tecnologias utilizadas:
 
-    Projeto desenvolvido utilizando ...
+    Projeto desenvolvido utilizando Java - Spring Boot - MySQL - HTML - CSS - JavaScript - Git - GitHub
+
+### Sprint atual:
+    ✔  Levantamento de requisitos
+    🔄 Modelagem do banco de dados
+
+### Backend:
+    Em desenvolvimento
+### Frontend:
+    Em desenvolvimento
+### Database:
+    Em desenvolvimento
+### Docs:
+    Em desenvolvimento
+
 
